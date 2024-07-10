@@ -93,6 +93,11 @@ Key Deliverable: <br/>
 <!-- Education Background starts from here-->
 
 
+<!--Language Skill starts from here-->
+## Language Skill
+- Bangla : Native
+- English : Admirable
+
 <!-- Others Activities starts from here-->
 
 ## Others Activities and Hobby
