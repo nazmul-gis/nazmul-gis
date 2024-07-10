@@ -26,8 +26,8 @@ As an analytical and challenge-driven professional, I bring over seven years of 
 
 
 <!-- Education Background starts from here-->
-<h2>👨‍🎓 Education Background</h2>
-<h3><u>Academic Qualification</u></h3>
+<h2>👨‍🎓 Educational Background</h2>
+<h3>Academic Qualification</h3>
 <ol>
     <li>Masters of Science in GIS for Environment and Development (MSGED) <br/> Jahangirnagar University, Dhaka </li>
     <li>Bachelor of Science in Mathematics (B.Sc.)<br> Government Bangla College, National University, Gazipur, Dhaka</li>
@@ -35,7 +35,7 @@ As an analytical and challenge-driven professional, I bring over seven years of 
     <li>Secondary School Certificate (S.S.C) <br/> Alfadanga Arifuzzman Pilot Highs School, Dhaka Board</li>
 </ol>
 
-<h3><u>Other Trainings </u></h3>
+<h3>Other Trainings </h3>
 <ol>
     <li>Fundamentals on GIS using ArcGIS <br/> Department of Geography and Environment <br/> University of Dhaka, Bangladesh</li>
     <li>Professional GIS Training <br/> Geospatial Science and Research Foundation <br/>University of Dhaka, Bangladesh</li>
