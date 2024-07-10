@@ -52,7 +52,6 @@ Key Deliverable: <br/>
 </ul>
 </p>
 
-<h2>Professional Experience</h2>
 <p>
 <b>Position Held : GIS Analyst</b><br/>
 From 01 Jun 2015 : To 29 November 2017 <br/>
