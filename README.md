@@ -122,4 +122,4 @@ Key Deliverable: <br/>
 
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./Assets/linkedin.svg" />](https://linkedin.com/in/nazmul-mgis)
 
-[<img align="left" alt="youtube" title="youtube" width="45" hspace="5" src="./Assets/youtube.svg" />](https://www.youtube.com/@event.analysis)
+[<img align="left" alt="youtube" title="youtube" width="45" hspace="5" src="./Assets/youtube.svg" />](https://www.youtube.com/@events.analysis)
