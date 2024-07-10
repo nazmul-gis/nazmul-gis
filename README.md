@@ -25,6 +25,57 @@ As an analytical and challenge-driven professional, I bring over seven years of 
 <!-- Skill end from here-->
 
 
+<!-- Professional Experience starts from here-->
+<h2>Professional Experience</h2>
+<p>
+<b>Position Held : Assistant Manager (GIS)</b><br/>
+From 30 Nov 2017 : To till now <br/>
+Employer : Toma Construction & Company Ltd. <br/>
+Office : Toma Tower, 77/1 Kakrail, Ramna, Dhaka-1000. <br/>
+Project : “Dohazari-Cox’s Bazar Railway Project” under Bangladesh Railway.
+<br/>
+<br/>
+Key Deliverable: <br/>
+<ul>
+    <li>Verifying the railway alignment and the land acquisitional plan by georeferencing mauza maps.</li>
+    <li>Data analysis and interpretation of topographic survey.</li>
+    <li>Creating access road map, traffic management road map, google and ovital shape file for access road to the project area.</li>
+    <li>Preparing digital elevation map (DEM), contour map for analyzing drainage system in hilly area of the project. </li>
+    <li>Generated analyzing map to propose the new structure (bridge/culvert) on the alignment.  </li>
+    <li>Guidance for topographic survey of overhead electric line, underground T&T, optical fiber cable, gas line and preparing maps to relocate the utilities from project area. </li>
+    <li>Leading and monitoring in the execution of GPS (RTK) survey work on control points and preparing the data list.</li>
+    <li>Monitoring the bathymetric survey and preparing the drawing for river training work. </li>
+    <li>Preparation of Longitudinal and Cross-sectional profile using ArcGIS, AutoCAD</li>
+    <li>Collecting data and preparing the level crossing drawing.</li>
+    <li>Established more than 200 control points (Bench Mark, Temporary Bench Mark, Permanent Bench Mark) in the area.   </li>
+    <li>Assisting the Chief Surveyor & Survey Manager in organizing, planning and execution of survey work.</li>
+</ul>
+</p>
+
+<h2>Professional Experience</h2>
+<p>
+<b>Position Held : GIS Analyst</b><br/>
+From 01 Jun 2015 : To 29 November 2017 <br/>
+Employer : Sheltech Consultants (PVT.) Ltd. <br/>
+Office : 1/E/2 (2nd floor), Paribag (Mazar Road), Shahbagh, Dhaka. <br/>
+Project : Preparation of Development Plan for Fourteen Upazilas” under Urban Development Directorate (UDD).
+<br/>
+<br/>
+Key Deliverable: <br/>
+<ul>
+    <li>Digitizing, georeferencing and edge matching mauza maps (All the mauza of three upazila ie. Raipura and shibpur of Narsingdi District and Ishwarganj Mymensingh District).</li>
+    <li>Monitoring, guiding, and leading the survey teams for conducting physical feature survey. </li>
+    <li>Preparing database by digitizing the physical feature survey sheets relating with the field data. </li>
+    <li>Data analysis and interpretation of topographic survey, physical feature survey, landuse survey. </li>
+    <li>Conduct physical feature data analysis and preparation of structure plan, landuse plan, proposed road network, proposed facilities & ward action plan of 3 municipalities, 44 unions under the Upazila Raipura, Shibpur in Narsingdi and Ishwarganj in Mymensingh.  </li>
+    <li>Identify location for land suitability for human settlement. </li>
+    <li>Risk assessment suitability survey analysis for identifying earthquake vulnerability. </li>
+</ul>
+</p>
+
+<!-- Professional Experience ends here-->
+
+
 <!-- Education Background starts from here-->
 <h2>👨‍🎓 Educational Background</h2>
 <h3>Academic Qualification</h3>
