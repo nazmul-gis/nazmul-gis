@@ -74,7 +74,6 @@ Key Deliverable: <br/>
 
 <!-- Professional Experience ends here-->
 
-
 <!-- Education Background starts from here-->
 <h2>👨‍🎓 Educational Background</h2>
 <h3>Academic Qualification</h3>
@@ -92,3 +91,12 @@ Key Deliverable: <br/>
 </ol>
 
 <!-- Education Background starts from here-->
+
+
+<!-- Others Activities starts from here-->
+
+## Others Activities and Hobby
+- 📚 Reading, ✈️ Travelling
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton
+- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+<!-- Others Activities ends here-->
