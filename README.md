@@ -109,8 +109,8 @@ Key Deliverable: <br/>
 
 <!--Honor and Award section start from here-->
 ### 🏅 Honors & Awards :
-<img src="./Assets/Excellent Employee in 2019.jpg" alt ="Award of Excellent Employee" width="100%">
+<img src="./Assets/Excellent Employee in 2019.jpg" alt ="Award of Excellent Employee" width="50%">
 
-<img src="./Assets/Hard Working Contributor in 2020.jpg" alt="Award of Hard Working Contributor" width="100%" hspace="5">
+<img src="./Assets/Hard Working Contributor in 2020.jpg" alt="Award of Hard Working Contributor" width="50%" hspace="5">
 <!--Honor and Award section ends here-->
 
