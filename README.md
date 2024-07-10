@@ -107,9 +107,10 @@ Key Deliverable: <br/>
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
 <!-- Others Activities ends here-->
 
-<!--Horor and Award section start from here-->
+<!--Honor and Award section start from here-->
 ### 🏅 Honors & Awards :
-<img align="left" alt="Excellent Employee" title="Excellent Employee" width="50%" src="./Assets/Excellent Employee in 2019.jpg">
+<img src="./Assets/Excellent Employee in 2019.jpg" alt ="Award of Excellent Employee" width="100%">
 
-<img align="left" alt="Hard Working Contributor" title="Hard Working Contributor" width="50%" src="./Assets/Hard Working Contributor in 2020.jpg">
-<!--Horor and Award section ends here-->
+<img src="./Assets/Hard Working Contributor in 2020.jpg" alt="Award of Hard Working Contributor" width="100%" hspace="5">
+<!--Honor and Award section ends here-->
+
