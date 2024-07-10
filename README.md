@@ -115,7 +115,11 @@ Key Deliverable: <br/>
 <!--Honor and Award section ends here-->
 
 <!--Contact Me starts from here-->
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./Assets/youtube.svg" />](https://www.youtube.com/@event.analysis)
+## Contact Me
+[<img align="left" alt="facebook" title="Email" width="45" hspace="5" src="./Assets/email.png" />](https://www.mdnazmulh.bd@gmail.com)
 
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./Assets/facebook.svg" />](https://www.facebook.com/nazmul.mgis)
+
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./Assets/linkedin.svg" />](https://linkedin.com/in/nazmul-mgis)
+
+[<img align="left" alt="youtube" title="youtube" width="45" hspace="5" src="./Assets/youtube.svg" />](https://www.youtube.com/@event.analysis)
