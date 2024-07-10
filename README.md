@@ -97,11 +97,19 @@ Key Deliverable: <br/>
 ## Language Skill
 - Bangla : Native
 - English : Admirable
+<!--Language Skill ends here-->
+
 
 <!-- Others Activities starts from here-->
-
 ## Others Activities and Hobby
 - 📚 Reading, ✈️ Travelling
 - 🏏 Cricket, ⚽ Football, 🏸 Badminton
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
 <!-- Others Activities ends here-->
+
+<!--Horor and Award section start from here-->
+### 🏅 Honors & Awards :
+<img align="left" alt="Excellent Employee" title="Excellent Employee" width="50%" src="./Assets/Excellent Employee in 2019.jpg">
+
+<img align="left" alt="Hard Working Contributor" title="Hard Working Contributor" width="50%" src="./Assets/Hard Working Contributor in 2020.jpg">
+<!--Horor and Award section ends here-->
