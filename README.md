@@ -116,9 +116,11 @@ Key Deliverable: <br/>
 
 <!--Contact Me starts from here-->
 ## Contact Me
-<a href="mailto : mdazmulh.bd@gmail.com"><img align="left" alt="Email" title="Email" width="45" hspace="5" src="./Assets/email.png"></a>
 
+<a href="mailto:mdnazmulh.bd@gmail.com" target="_blank"><img align="left" alt="Email" title="Email" width="45" hspace="5" src="./Assets/email.png"></a>
 <a href="https://www.facebook.com/nazmul.mgis" target="_blank"><img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./Assets/facebook.svg"></a>
 <a href="https://linkedin.com/in/nazmul-mgis" target="_blank"><img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./Assets/linkedin.svg"></a>
 <a href="https://www.youtube.com/@events.analysis" target="_balnk"><img align="left" alt="youtube" title="youtube" width="45" hspace="5" src="./Assets/youtube.svg" /></a>
+
+
 
