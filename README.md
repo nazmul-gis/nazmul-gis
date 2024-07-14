@@ -116,7 +116,7 @@ Key Deliverable: <br/>
 
 <!--Contact Me starts from here-->
 ## Contact Me
-[<img align="left" alt="facebook" title="Email" width="45" hspace="5" src="./Assets/email.png" />](https://www.mdnazmulh.bd@gmail.com)
+[<img align="left" alt="Email" title="Email" width="45" hspace="5" src="./Assets/email.png" />](mailto: mdnazmulh.bd@gmail.com)
 
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./Assets/facebook.svg" />](https://www.facebook.com/nazmul.mgis)
 
