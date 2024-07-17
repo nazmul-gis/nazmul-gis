@@ -14,14 +14,16 @@ As an analytical and challenge-driven professional, I bring over seven years of 
 <!--Introduction end here -->
 
 <!-- Skill starts from here-->
-<h2>My Skills</h2>
+<div><h2>My Skills</h2>
 <ul>
     <li>ArcGIS</li>
     <li>RTK GPS</li>
     <li>AutoCAD</li>
     <li>HTML</li>
     <li>CSS</li>
+    <li>JavaScript</li>
 </ul>
+</div>
 <!-- Skill end from here-->
 
 
